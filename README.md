@@ -1,5 +1,3 @@
-# Circle-User-Controlled-Wallet-Use-Case
-
 
 # Kullanıcı Kontrollü Cüzdan Nedir #
 
